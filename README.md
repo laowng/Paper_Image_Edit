@@ -4,4 +4,4 @@
 
 Compare目录为示例输入对比图库，文件夹名为使用的性能提升方法，HR为原图。
 Result目录为结果输出图。
-Demo.png为效果图
+![Demo.png为效果图](Demo.png)
